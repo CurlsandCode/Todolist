@@ -35,6 +35,7 @@ span {
     display: block;
     height: 90%;
     width: 100%;
+    font-family: 'Passion One', cursive;
 }
 
 .wrap-list {
@@ -69,6 +70,7 @@ label {
     padding: 10px;
     float: left;
     width: 90%;
+    font-family: 'Indie Flower', cursive;
 }
 .grey{
     background: rgba(0,0,50,.1);
