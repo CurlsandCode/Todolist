@@ -50,6 +50,7 @@ input[type="checkbox"] {
     top: 14px;
     right: 12px;
     float: right;
+    
 }
 
 input[type="checkbox"]:checked+label {
@@ -72,6 +73,7 @@ label {
     float: left;
     width: 90%;
     font-family: 'Indie Flower', cursive;
+    color: #003366;
 }
 .grey{
     background: rgba(0,0,50,.1);
